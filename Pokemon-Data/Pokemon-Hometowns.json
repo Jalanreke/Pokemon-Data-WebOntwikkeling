@@ -1,0 +1,58 @@
+{
+  "hometowns": [
+    {
+      "id": 101,
+      "name": "Pallet Town",
+      "region": "Kanto",
+      "famous_for": "Professor Oak's Lab"
+    },
+    {
+      "id": 102,
+      "name": "Pewter City",
+      "region": "Kanto",
+      "famous_for": "Rotsachtige landschappen en Pewter Gym"
+    },
+    {
+      "id": 103,
+      "name": "Cerulean City",
+      "region": "Kanto",
+      "famous_for": "Water-type Pokémon Gym"
+    },
+    {
+      "id": 104,
+      "name": "Celadon City",
+      "region": "Kanto",
+      "famous_for": "Celadon Warenhuis en Celadon Gym"
+    },
+    {
+      "id": 105,
+      "name": "Vermilion City",
+      "region": "Kanto",
+      "famous_for": "Elektrische Pokémon Gym"
+    },
+    {
+      "id": 106,
+      "name": "Saffron City",
+      "region": "Kanto",
+      "famous_for": "Psychische Pokémon Gym"
+    },
+    {
+      "id": 107,
+      "name": "Fuchsia City",
+      "region": "Kanto",
+      "famous_for": "Safari Zone en Poison Gym"
+    },
+    {
+      "id": 108,
+      "name": "Cinnabar Island",
+      "region": "Kanto",
+      "famous_for": "Vulkanisch landschap en Fire Gym"
+    },
+    {
+      "id": 109,
+      "name": "Viridian City",
+      "region": "Kanto",
+      "famous_for": "Ground-type Pokémon Gym"
+    }
+  ]
+}

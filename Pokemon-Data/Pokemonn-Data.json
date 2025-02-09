@@ -1,0 +1,174 @@
+{
+  "trainers": [
+    {
+      "id": 1,
+      "name": "Ash Ketchum",
+      "description": "Een jonge en ambitieuze Pokémon Trainer uit Pallet Town.",
+      "age": 10,
+      "active": true,
+      "birthdate": "1997-05-22",
+      "image_url": "https://example.com/ash.jpg",
+      "role": "Trainer",
+      "hobbies": ["Reizen", "Pokémon vangen", "Vechten"],
+      "hometown": {
+        "id": 101,
+        "name": "Pallet Town",
+        "region": "Kanto",
+        "famous_for": "Professor Oak's Lab"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Brock",
+      "description": "Een ervaren Pokémon Trainer en voormalig Gym Leader van Pewter City.",
+      "age": 15,
+      "active": true,
+      "birthdate": "1992-06-15",
+      "image_url": "https://example.com/brock.jpg",
+      "role": "Gym Leader",
+      "hobbies": ["Koken", "Pokémon verzorgen", "Reizen"],
+      "hometown": {
+        "id": 102,
+        "name": "Pewter City",
+        "region": "Kanto",
+        "famous_for": "Rotsachtige landschappen en Pewter Gym"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Misty",
+      "description": "De Gym Leader van Cerulean City en een water-Pokémon specialist.",
+      "age": 12,
+      "active": false,
+      "birthdate": "1995-08-10",
+      "image_url": "https://example.com/misty.jpg",
+      "role": "Gym Leader",
+      "hobbies": ["Zwemmen", "Water-Pokémon trainen", "Reizen"],
+      "hometown": {
+        "id": 103,
+        "name": "Cerulean City",
+        "region": "Kanto",
+        "famous_for": "Water-type Pokémon Gym"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Gary Oak",
+      "description": "Een rivaal van Ash en een getalenteerde Pokémon Trainer.",
+      "age": 10,
+      "active": true,
+      "birthdate": "1997-05-22",
+      "image_url": "https://example.com/gary.jpg",
+      "role": "Trainer",
+      "hobbies": ["Onderzoek", "Pokémon vechten", "Reizen"],
+      "hometown": {
+        "id": 101,
+        "name": "Pallet Town",
+        "region": "Kanto",
+        "famous_for": "Professor Oak's Lab"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Erika",
+      "description": "De Gym Leader van Celadon City met een liefde voor Grass-type Pokémon.",
+      "age": 18,
+      "active": true,
+      "birthdate": "1989-11-03",
+      "image_url": "https://example.com/erika.jpg",
+      "role": "Gym Leader",
+      "hobbies": ["Tuinen", "Aromatherapie", "Pokémon trainen"],
+      "hometown": {
+        "id": 104,
+        "name": "Celadon City",
+        "region": "Kanto",
+        "famous_for": "Celadon Warenhuis en Celadon Gym"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Lt. Surge",
+      "description": "Een voormalige soldaat en de Gym Leader van Vermilion City.",
+      "age": 35,
+      "active": true,
+      "birthdate": "1988-07-04",
+      "image_url": "https://example.com/surge.jpg",
+      "role": "Gym Leader",
+      "hobbies": ["Elektriciteit", "Strijd voeren"],
+      "hometown": {
+        "id": 105,
+        "name": "Vermilion City",
+        "region": "Kanto",
+        "famous_for": "Elektrische Pokémon Gym"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Sabrina",
+      "description": "De mysterieuze Gym Leader van Saffron City met psychische krachten.",
+      "age": 20,
+      "active": true,
+      "birthdate": "1990-09-21",
+      "image_url": "https://example.com/sabrina.jpg",
+      "role": "Gym Leader",
+      "hobbies": ["Meditatie", "Telekinese"],
+      "hometown": {
+        "id": 106,
+        "name": "Saffron City",
+        "region": "Kanto",
+        "famous_for": "Psychische Pokémon Gym"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Koga",
+      "description": "De ninja-achtige Gym Leader van Fuchsia City, gespecialiseerd in Poison-type Pokémon.",
+      "age": 45,
+      "active": true,
+      "birthdate": "1978-03-10",
+      "image_url": "https://example.com/koga.jpg",
+      "role": "Gym Leader",
+      "hobbies": ["Ninjutsu", "Pokémon trainen"],
+      "hometown": {
+        "id": 107,
+        "name": "Fuchsia City",
+        "region": "Kanto",
+        "famous_for": "Safari Zone en Poison Gym"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Blaine",
+      "description": "De vurige Gym Leader van Cinnabar Island met een passie voor Fire-type Pokémon.",
+      "age": 58,
+      "active": true,
+      "birthdate": "1965-02-15",
+      "image_url": "https://example.com/blaine.jpg",
+      "role": "Gym Leader",
+      "hobbies": ["Wetenschap", "Vuurtype Pokémon"],
+      "hometown": {
+        "id": 108,
+        "name": "Cinnabar Island",
+        "region": "Kanto",
+        "famous_for": "Vulkanisch landschap en Fire Gym"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Giovanni",
+      "description": "De duistere leider van Team Rocket en de Gym Leader van Viridian City.",
+      "age": 50,
+      "active": false,
+      "birthdate": "1973-09-01",
+      "image_url": "https://example.com/giovanni.jpg",
+      "role": "Gym Leader",
+      "hobbies": ["Criminaliteit", "Sterke Pokémon trainen"],
+      "hometown": {
+        "id": 109,
+        "name": "Viridian City",
+        "region": "Kanto",
+        "famous_for": "Ground-type Pokémon Gym"
+      }
+    }
+  ]
+}
