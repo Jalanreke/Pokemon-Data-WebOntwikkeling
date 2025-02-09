@@ -7,7 +7,7 @@
       "age": 10,
       "active": true,
       "birthdate": "1997-05-22",
-      "image_url": "https://example.com/ash.jpg",
+      "image_url": "https://raw.githubusercontent.com/Jalanreke/Pokemon-Data-WebOntwikkeling/refs/heads/main/Pokemon-Images/ASH.webp?token=GHSAT0AAAAAAC6KEYDIYMWLQBI4AVL2PTAKZ5I2J6Q",
       "role": "Trainer",
       "hobbies": ["Reizen", "Pokémon vangen", "Vechten"],
       "hometown": {
@@ -41,7 +41,7 @@
       "age": 12,
       "active": false,
       "birthdate": "1995-08-10",
-      "image_url": "https://example.com/misty.jpg",
+      "image_url": "https://raw.githubusercontent.com/Jalanreke/Pokemon-Data-WebOntwikkeling/refs/heads/main/Pokemon-Images/DALLE_2025-02-06_14.14.16_-_A_water-type_specialist_with_a_friendly_vibe_wearing_a_light_blue_vest_cargo_shorts_and_sandals._The_trainer_has_medium-length_hair_a_warm_welcom.webp?token=GHSAT0AAAAAAC6KEYDJ4ZOSRSQMRWRY6ZCKZ5I2CDA",
       "role": "Gym Leader",
       "hobbies": ["Zwemmen", "Water-Pokémon trainen", "Reizen"],
       "hometown": {
@@ -58,7 +58,7 @@
       "age": 10,
       "active": true,
       "birthdate": "1997-05-22",
-      "image_url": "https://example.com/gary.jpg",
+      "image_url": "https://raw.githubusercontent.com/Jalanreke/Pokemon-Data-WebOntwikkeling/refs/heads/main/Pokemon-Images/DALLE_2025-02-06_14.14.18_-_A_rival_trainer_with_a_sharp_focus_on_competition_wearing_a_tight_sleek_jacket_with_racing_stripes_black_athletic_pants_and_sneakers._The_trainer_.webp?token=GHSAT0AAAAAAC6KEYDJNDQLFYSXF3X2GIYEZ5I2LGQ",
       "role": "Trainer",
       "hobbies": ["Onderzoek", "Pokémon vechten", "Reizen"],
       "hometown": {
@@ -75,7 +75,7 @@
       "age": 18,
       "active": true,
       "birthdate": "1989-11-03",
-      "image_url": "https://example.com/erika.jpg",
+      "image_url": "https://raw.githubusercontent.com/Jalanreke/Pokemon-Data-WebOntwikkeling/refs/heads/main/Pokemon-Images/DALLE_2025-02-06_14.14.20_-_A_graceful_trainer_with_a_deep_love_for_plants_wearing_a_flowy_green_tunic_leggings_and_barefoot_with_floral_patterns._The_trainer_has_long_flowin.webp?token=GHSAT0AAAAAAC6KEYDIYMHBHDVXLJILMCZGZ5I2CFQ",
       "role": "Gym Leader",
       "hobbies": ["Tuinen", "Aromatherapie", "Pokémon trainen"],
       "hometown": {
@@ -92,7 +92,7 @@
       "age": 35,
       "active": true,
       "birthdate": "1988-07-04",
-      "image_url": "https://example.com/surge.jpg",
+      "image_url": "https://raw.githubusercontent.com/Jalanreke/Pokemon-Data-WebOntwikkeling/refs/heads/main/Pokemon-Images/DALLE_2025-02-06_14.14.22_-_A_tough_trainer_with_an_affinity_for_electricity_wearing_a_leather_jacket_with_electrical_patterns_combat_boots_and_fingerless_gloves._The_trainer_.webp?token=GHSAT0AAAAAAC6KEYDIMIVRZFGF764GP4CQZ5I2CGQ",
       "role": "Gym Leader",
       "hobbies": ["Elektriciteit", "Strijd voeren"],
       "hometown": {
@@ -109,7 +109,7 @@
       "age": 20,
       "active": true,
       "birthdate": "1990-09-21",
-      "image_url": "https://example.com/sabrina.jpg",
+      "image_url": "https://raw.githubusercontent.com/Jalanreke/Pokemon-Data-WebOntwikkeling/refs/heads/main/Pokemon-Images/DALLE_2025-02-06_14.14.24_-_A_psychic_trainer_with_a_mysterious_aura_wearing_a_dark_purple_form-fitting_robe_with_psychic_symbols_on_it._The_trainer_has_long_flowing_hair_and_.webp?token=GHSAT0AAAAAAC6KEYDIQGFFT4ZU5CX53TBAZ5I2CHQ",
       "role": "Gym Leader",
       "hobbies": ["Meditatie", "Telekinese"],
       "hometown": {
@@ -126,7 +126,7 @@
       "age": 45,
       "active": true,
       "birthdate": "1978-03-10",
-      "image_url": "https://example.com/koga.jpg",
+      "image_url": "https://raw.githubusercontent.com/Jalanreke/Pokemon-Data-WebOntwikkeling/refs/heads/main/Pokemon-Images/DALLE_2025-02-06_14.14.25_-_A_stealthy_trainer_specializing_in_poison-type_Pal_wearing_dark_green_and_black_tactical_gear_with_a_hooded_cloak._The_trainer_has_short_dark_hair.webp?token=GHSAT0AAAAAAC6KEYDI6LLHUN5NSJWJ2LUUZ5I2CIQ",
       "role": "Gym Leader",
       "hobbies": ["Ninjutsu", "Pokémon trainen"],
       "hometown": {
@@ -143,7 +143,7 @@
       "age": 58,
       "active": true,
       "birthdate": "1965-02-15",
-      "image_url": "https://example.com/blaine.jpg",
+      "image_url": "https://raw.githubusercontent.com/Jalanreke/Pokemon-Data-WebOntwikkeling/refs/heads/main/Pokemon-Images/DALLE_2025-02-06_14.14.27_-_A_fiery_and_passionate_trainer_wearing_a_red_and_orange_jacket_with_flame_patterns_and_black_pants._The_trainer_has_wild_fiery_hair_a_determined_e.webp?token=GHSAT0AAAAAAC6KEYDINTGTJQS42IW4OROWZ5I2CJQ",
       "role": "Gym Leader",
       "hobbies": ["Wetenschap", "Vuurtype Pokémon"],
       "hometown": {
@@ -160,7 +160,7 @@
       "age": 50,
       "active": false,
       "birthdate": "1973-09-01",
-      "image_url": "https://example.com/giovanni.jpg",
+      "image_url": "https://raw.githubusercontent.com/Jalanreke/Pokemon-Data-WebOntwikkeling/refs/heads/main/Pokemon-Images/DALLE_2025-02-06_14.14.28_-_A_dark_and_strategic_trainer_with_a_secretive_side_wearing_a_long_dark_cloak_with_intricate_patterns_a_mask_covering_the_lower_half_of_their_face_.webp?token=GHSAT0AAAAAAC6KEYDI6A2JBJ7KQ6KYCZEQZ5I2CKQ",
       "role": "Gym Leader",
       "hobbies": ["Criminaliteit", "Sterke Pokémon trainen"],
       "hometown": {
