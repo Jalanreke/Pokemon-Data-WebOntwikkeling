@@ -10,7 +10,7 @@
       "id": 102,
       "name": "Pewter City",
       "region": "Kanto",
-      "famous_for": "Rotsachtige landschappen en Pewter Gym"
+      "famous_for": "Rocky landscapes and Pewter Gym"
     },
     {
       "id": 103,
@@ -22,31 +22,31 @@
       "id": 104,
       "name": "Celadon City",
       "region": "Kanto",
-      "famous_for": "Celadon Warenhuis en Celadon Gym"
+      "famous_for": "Celadon Department Store and Celadon Gym"
     },
     {
       "id": 105,
       "name": "Vermilion City",
       "region": "Kanto",
-      "famous_for": "Elektrische Pokémon Gym"
+      "famous_for": "Electric-type Pokémon Gym"
     },
     {
       "id": 106,
       "name": "Saffron City",
       "region": "Kanto",
-      "famous_for": "Psychische Pokémon Gym"
+      "famous_for": "Psychic-type Pokémon Gym"
     },
     {
       "id": 107,
       "name": "Fuchsia City",
       "region": "Kanto",
-      "famous_for": "Safari Zone en Poison Gym"
+      "famous_for": "Safari Zone and Poison Gym"
     },
     {
       "id": 108,
       "name": "Cinnabar Island",
       "region": "Kanto",
-      "famous_for": "Vulkanisch landschap en Fire Gym"
+      "famous_for": "Volcanic landscape and Fire Gym"
     },
     {
       "id": 109,
