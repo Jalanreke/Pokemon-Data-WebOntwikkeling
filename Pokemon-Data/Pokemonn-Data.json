@@ -23,7 +23,7 @@
       "age": 15,
       "active": true,
       "birthdate": "1992-06-15",
-      "image_url": "https://raw.githubusercontent.com/Jalanreke/Pokemon-Data-WebOntwikkeling/refs/heads/main/Pokemon-Images/DALLE_2025-02-06_14.14.13_-_An_experienced_trainer_with_a_calm_demeanor_wearing_a_long_open_coat_over_a_casual_shirt_and_pants._The_trainer_has_short_well-kept_hair_a_serene_.webp",
+      "image_url": "https://raw.githubusercontent.com/Jalanreke/Pokemon-Data-WebOntwikkeling/refs/heads/main/Pokemon-Images/DALLE_2025-02-06_14.14.18_-_A_rival_trainer_with_a_sharp_focus_on_competition_wearing_a_tight_sleek_jacket_with_racing_stripes_black_athletic_pants_and_sneakers._The_trainer_.webp",
       "role": "Gym Leader",
       "hobbies": ["Cooking", "Caring for Pokémon", "Traveling"],
       "hometown": {
