@@ -57,7 +57,7 @@
       "age": 10,
       "active": true,
       "birthdate": "1997-05-22",
-      "image_url": "https://raw.githubusercontent.com/Jalanreke/Pokemon-Data-WebOntwikkeling/refs/heads/main/Pokemon-Images/DALLE_2025-02-06_14.14.20_-_A_graceful_trainer_with_a_deep_love_for_plants_wearing_a_flowy_green_tunic_leggings_and_barefoot_with_floral_patterns._The_trainer_has_long_flowin.webp",
+      "image_url": "https://raw.githubusercontent.com/Jalanreke/Pokemon-Data-WebOntwikkeling/refs/heads/main/Pokemon-Images/DALLE_2025-02-06_14.14.18_-_A_rival_trainer_with_a_sharp_focus_on_competition_wearing_a_tight_sleek_jacket_with_racing_stripes_black_athletic_pants_and_sneakers._The_trainer_.webp",
       "role": "Trainer",
       "hobbies": ["Research", "Pokémon battles", "Traveling"],
       "hometown": {
