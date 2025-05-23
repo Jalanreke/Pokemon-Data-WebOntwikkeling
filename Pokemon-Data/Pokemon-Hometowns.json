@@ -1,5 +1,4 @@
-{
-  "hometowns": [
+ [
     {
       "id": 101,
       "name": "Pallet Town",
@@ -55,4 +54,4 @@
       "famous_for": "Ground-type Pokémon Gym"
     }
   ]
-}
+
